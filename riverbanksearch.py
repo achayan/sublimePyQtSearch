@@ -7,7 +7,7 @@ __copyright__ = '2011'
 __license__ = "Copyright 2011 Kurian"
 __contact__ = "kurianos@gmail.com"
 __status__ = "Development"
-
+#this code is based on Eric Martel stackoverflow search
 import sublime
 import sublime_plugin
 
