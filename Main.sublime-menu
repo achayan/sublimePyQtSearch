@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "PyQt Search",
+                "mnemonic": "f",
+                "id": "riverbankpyqt",
+                "children":
+                [
+                    {
+                        "command": "riverbank_search",
+                        "caption": "PyQt Search"
+                    }
+                ]
+            }
+        ]
+    }
+]
