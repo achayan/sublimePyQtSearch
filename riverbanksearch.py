@@ -15,7 +15,7 @@ import subprocess
 import webbrowser
 
 def SearchFor(text):
-    url = 'http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/%s.html'%text.lower()
+    url = 'http://pyqt.sourceforge.net/Docs/PyQt4/%s.html'%text.lower()
     webbrowser.open_new_tab(url)
 
 class RiverbankSearchCommand(sublime_plugin.TextCommand):
